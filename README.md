@@ -48,6 +48,23 @@ I'm a french developer beginner, so I'm still learning.
 <img align="left" alt="Python " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
 <br />
 <br />
+<br />
+
+- :hammer: I need to learn :
+<img align="left" alt="PHP " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+<img align="left" alt="MongoDB " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" />
+<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
+<img align="left" alt="C++ " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Linux " width="45,6px" src="http://www.responsive-mind.fr/wp-content/uploads/2014/09/logo-git.png" />
+<br />
+<br />
+<br />
+
+- :heart: I love :
+<img align="left" alt="Java " width="42,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
+<br />
+<br />
+<br />
 
 ---
 
