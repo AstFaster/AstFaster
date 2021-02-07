@@ -4,8 +4,8 @@ I'm a french developer beginner, so I'm still learning.
 
 ### What about me ?
 
-- :boom: My name is Corentin and I'm 13 yo
-- :cyclone: I started to be interested by programming 2 years ago with a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
+- :boom: My name is Corentin and I'm 14 yo
+- :cyclone: I started to be interested by programming 3 years ago with a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
 - :fire: My first project was a minecraft forge project called **Crystalia** in 1.7.10 but I gave up it because I didn't learn java before doing it
 - :bulb: I learned java with this tutorial : [**LES TEACHERS DU NET - JAVA INTERMEDIAIRE**](https://www.youtube.com/watch?v=2vvuGUxPv30&list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH)
 
@@ -16,8 +16,8 @@ I'm a french developer beginner, so I'm still learning.
 
 ### In which project I'm currently working ?
 
-- :zap: I’m currently working on project called [**Sanwire**](https://github.com/AstFaster/Sanwire)
-  - It's a library to create minecraft launchers easily : Updater/Auth/Launch/Graphics etc
+- :zap: I’m currently working on [**Hyriode**](https://github.com/Hyriode)
+  - It's a minecraft server network.
 - :comet: And the rest is comming soon...
 
 ### What is my favorite software for programming ?
@@ -32,8 +32,6 @@ I'm a french developer beginner, so I'm still learning.
 - :floppy_disk: I'm currently learning :
 <img align="left" alt="Docker " width="45,6px" height="34,2px" src="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-684x513.jpg" />
 <img align="left" alt="Redis " width="45,6px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" />
-<img align="left" alt="Redis " width="45,6px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/thumb_bigger_formation-gitlab.png" />
-<img align="left" alt="Redis " width="61,7px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/fr/2/21/OpenGL_logo.svg" />
 <br />
 <br />
 <br />
