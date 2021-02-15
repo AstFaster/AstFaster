@@ -11,7 +11,7 @@ I'm a french developer beginner, so I'm still learning.
 
 ### How to reach me ?
 
-- :mailbox_with_no_mail: Discord : Ⱥʂէ#7285
+- :mailbox_with_no_mail: Discord : AstFaster#1858
 - :postbox: Email : astfaster@gmail.com
 
 ### In which project I'm currently working ?
