@@ -5,7 +5,7 @@ I'm a french developer beginner, so I'm still learning.
 ### What about me ?
 
 - :boom: My name is Corentin and I'm 14 yo
-- :cyclone: I started to be interested by programming 3 years ago with a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
+- :cyclone: I started to be interested by programming 4 years ago with a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
 - :fire: My first project was a minecraft forge project called **Crystalia** in 1.7.10 but I gave up it because I didn't learn java before doing it
 - :bulb: I learned java with this tutorial : [**LES TEACHERS DU NET - JAVA INTERMEDIAIRE**](https://www.youtube.com/watch?v=2vvuGUxPv30&list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH)
 
@@ -30,18 +30,18 @@ I'm a french developer beginner, so I'm still learning.
 ### What languages/things do I know/I'm learning
 
 - :floppy_disk: I'm currently learning :
+<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
 <img align="left" alt="Docker " width="45,6px" height="34,2px" src="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-684x513.jpg" />
-<img align="left" alt="Redis " width="45,6px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" />
 <br />
 <br />
 <br />
 
 - :computer: I have already use :
+<img align="left" alt="Redis " width="45,6px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" />
 <img align="left" alt="Git " width="45,6px" src="http://www.responsive-mind.fr/wp-content/uploads/2014/09/logo-git.png" />
 <img align="left" alt="CSS " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 <img align="left" alt="HTML " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="JavaScript " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-<img align="left" alt="NodeJS " width="45,6px" src="https://www.brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
 <img align="left" alt="MySQL " width="45,6px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" alt="C# " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 <img align="left" alt="Python " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
@@ -52,9 +52,7 @@ I'm a french developer beginner, so I'm still learning.
 - :hammer: I need to learn :
 <img align="left" alt="PHP " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 <img align="left" alt="MongoDB " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" />
-<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
 <img align="left" alt="C++ " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<img align="left" alt="Linux " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
 <br />
 <br />
 <br />
