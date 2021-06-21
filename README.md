@@ -1,6 +1,6 @@
 ### Hey, I'm AstFaster 👋
 
-I'm a french developer beginner, so I'm still learning.
+I'm a french beginner developer, so I'm still learning.
 
 ### What about me ?
 
@@ -16,8 +16,9 @@ I'm a french developer beginner, so I'm still learning.
 
 ### In which project I'm currently working ?
 
-- :zap: I’m currently working on [**Hyriode**](https://github.com/Hyriode)
-  - It's a minecraft server network.
+- :zap: I am currently working on [**Hyriode**](https://github.com/Hyriode)
+  - A Minecraft server network: [join here](http://hyriode.fr/discord)
+- :alembic: I am also working for many servers such as [**BRWServ**](https://brwserv.net) and [**Fistin Network**](http://d.fistin.fr)
 - :comet: And the rest is comming soon...
 
 ### What is my favorite software for programming ?
@@ -29,36 +30,36 @@ I'm a french developer beginner, so I'm still learning.
 
 ### What languages/things do I know/I'm learning
 
-- :floppy_disk: I'm currently learning :
-<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
-<img align="left" alt="Docker " width="45,6px" height="34,2px" src="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-684x513.jpg" />
+- :heart: I love :
+<img align="left" alt="Java " width="29,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
+<img align="left" alt="Docker " width="54,6px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
+<img align="left" alt="Redis " width="45,6px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" />
 <br />
 <br />
 <br />
 
 - :computer: I have already use :
-<img align="left" alt="Redis " width="45,6px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" />
-<img align="left" alt="Git " width="45,6px" src="http://www.responsive-mind.fr/wp-content/uploads/2014/09/logo-git.png" />
+<img align="left" alt="MongoDB " width="45,6px" height="45,6px" src="https://img.icons8.com/color/480/mongodb.png" />
+<img align="left" alt="Git " width="45,6px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png" />
 <img align="left" alt="CSS " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 <img align="left" alt="HTML " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-<img align="left" alt="JavaScript " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="MySQL " width="45,6px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
-<img align="left" alt="C# " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+<img align="left" alt="C# " width="45,6px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="Python " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
+<br />
+<br />
+<br />
+
+- :floppy_disk: I'm currently learning :
+<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
+<img align="left" alt="JavaScript " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <br />
 <br />
 <br />
 
 - :hammer: I need to learn :
 <img align="left" alt="PHP " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-<img align="left" alt="MongoDB " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" />
 <img align="left" alt="C++ " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<br />
-<br />
-<br />
-
-- :heart: I love :
-<img align="left" alt="Java " width="42,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
 <br />
 <br />
 <br />
