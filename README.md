@@ -51,13 +51,13 @@ I'm a french beginner developer, so I'm still learning.
 <br />
 
 - :floppy_disk: I'm currently learning :
-<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
 <img align="left" alt="JavaScript " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <br />
 <br />
 <br />
 
 - :hammer: I need to learn :
+<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
 <img align="left" alt="PHP " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 <img align="left" alt="C++ " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <br />
