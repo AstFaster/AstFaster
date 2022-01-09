@@ -17,8 +17,9 @@ I'm a french beginner developer, so I'm still learning.
 ### In which project I'm currently working ?
 
 - :zap: I am currently working on [**Hyriode**](https://github.com/Hyriode)
-  - A Minecraft server network: [join here](http://hyriode.fr/discord)
-- :alembic: I am also working for many servers such as [**BRWServ**](https://brwserv.net) and [**Fistin Network**](http://d.fistin.fr)
+   - A Minecraft server network: [join here](https://discord.hyriode.fr)
+- :rocket: I worked for a server called [**BRWServ**](https://brwserv.net), but I left it because it was not interesting me anymore
+- :alembic: I am also working a server called [**Fistin Network**](https://dsc.gg/fistin)
 - :comet: And the rest is comming soon...
 
 ### What is my favorite software for programming ?
@@ -58,7 +59,6 @@ I'm a french beginner developer, so I'm still learning.
 
 - :hammer: I need to learn :
 <img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
-<img align="left" alt="PHP " width="64,6px" height="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 <img align="left" alt="C++ " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <br />
 <br />
