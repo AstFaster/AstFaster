@@ -4,7 +4,7 @@ I'm a french beginner developer, so I'm still learning.
 
 ### What about me ?
 
-- :boom: My name is Corentin and I'm 14 yo
+- :boom: My name is Corentin and I'm 15 yo
 - :cyclone: I started to be interested by programming 4 years ago with a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
 - :fire: My first project was a minecraft forge project called **Crystalia** in 1.7.10 but I gave up it because I didn't learn java before doing it
 - :bulb: I learned java with this tutorial : [**LES TEACHERS DU NET - JAVA INTERMEDIAIRE**](https://www.youtube.com/watch?v=2vvuGUxPv30&list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH)
