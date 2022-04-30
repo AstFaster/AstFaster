@@ -19,7 +19,7 @@ I'm a french beginner developer, so I'm still learning.
 - :zap: I am currently working on [**Hyriode**](https://github.com/Hyriode)
    - A Minecraft server network: [join here](https://discord.hyriode.fr)
 - :rocket: I worked for a server called [**BRWServ**](https://brwserv.net), but I left it because it was not interesting me anymore
-- :alembic: I am also working a server called [**Fistin Network**](https://dsc.gg/fistin)
+- :alembic: I am also working on a server called [**Fistin Network**](https://dsc.gg/fistin)
 - :comet: And the rest is comming soon...
 
 ### What is my favorite software for programming ?
