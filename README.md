@@ -33,7 +33,7 @@ I'm a french beginner developer, so I'm still learning.
 
 - :heart: I love :
 <img align="left" alt="Java " width="29,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
-<img align="left" alt="Docker " width="54,6px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
+<img align="left" alt="Docker " width="54,6px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 <img align="left" alt="Redis " width="45,6px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" />
 <br />
 <br />
