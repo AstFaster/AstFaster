@@ -8,20 +8,18 @@ I'm a french beginner developer, so I'm still learning everyday.
 
 - :boom: My name is Corentin and I'm 16 yo
 - :cyclone: I started to be interested by programming 4 years ago with a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
-- :fire: My first project was a minecraft forge project called **Crystalia** in 1.7.10 but I gave up it because I didn't learn java before doing it
-- :bulb: I learned java with this tutorial : [**LES TEACHERS DU NET - JAVA INTERMEDIAIRE**](https://www.youtube.com/watch?v=2vvuGUxPv30&list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH)
-
+  
 ### How to reach me ?
 
-- :mailbox_with_no_mail: Discord : AstFaster#1858
+- :mailbox_with_no_mail: Discord : AstFaster#
 - :postbox: Email : astfaster@gmail.com
 
 ### In which project I'm currently working ?
 
 - :zap: I am currently working on [**Hyriode**](https://github.com/Hyriode)
    - A Minecraft mini-game network: [join here](https://discord.hyriode.fr)
-- :rocket: I worked for a server called [**BRWServ**](https://brwserv.net), but I left it because it was not interesting me anymore
-- :alembic: I am also working on a server called [**Fistin Network**](https://discord.gg/dBu7NAH944)
+- :rocket: I worked for a server called [**BRWServ**](https://brwserv.net), but I left it because the server closed.
+- :alembic: I was also working on a server called [**Fistin Network**](https://discord.gg/dBu7NAH944) (all my work is now open-source).
 - :comet: And the rest is comming soon...
 
 ### What are my favorite softwares for programming ?
@@ -48,10 +46,9 @@ I'm a french beginner developer, so I'm still learning everyday.
 <br />
 
 - :computer: I have already used:
-<img align="left" alt="Netty " width="45,6px" height="45,6px" src="https://avatars.githubusercontent.com/u/473791?s=280&v=4" />
-<img align="left" alt="Git " width="45,6px" src="https://www.florentgonon.com/assets/git-4ed4db98583d5f694ccc8ccfae22449fc6ba8a7f4e9759fecddd5ca27053018e.png" />
+<img align="left" alt="Git " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
 <img align="left" alt="Azure " width="45,6px" src="https://upload.wikimedia.org/wikipedia/fr/b/b6/Microsoft-Azure.png" />
-<img align="left" alt="Grafana " width="45,6px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" />
+<img align="left" alt="Grafana " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png" />
 <img align="left" alt="MySQL " width="45,6px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" alt="MariaDB " width="45,6px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" />
 <img align="left" alt="InfluxDB " width="45,6px" src="https://assets.zabbix.com/img/brands/influxdb.svg" />
