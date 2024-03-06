@@ -6,8 +6,8 @@ I'm a french beginner developer, so I'm still learning everyday.
 
 ### What about me ?
 
-- :boom: My name is Corentin and I'm 16 yo
-- :cyclone: I started to be interested by programming 4 years ago with a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
+- :boom: My name is Corentin and I'm 17 yo
+- :cyclone: I started to be interested by programming 5 years ago because of a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
   
 ### How to reach me ?
 
@@ -16,11 +16,11 @@ I'm a french beginner developer, so I'm still learning everyday.
 
 ### In which project I'm currently working ?
 
-- :zap: I am currently working on [**Hyriode**](https://github.com/Hyriode)
+- :zap: I was working on [**Hyriode**](https://github.com/Hyriode)
    - A Minecraft mini-game network: [join here](https://discord.hyriode.fr)
 - :rocket: I worked for a server called [**BRWServ**](https://brwserv.net), but I left it because the server closed.
 - :alembic: I was also working on a server called [**Fistin Network**](https://discord.gg/dBu7NAH944) (all my work is now open-source).
-- :comet: And the rest is comming soon...
+- :comet: And the rest is coming soon...
 
 ### What are my favorite softwares for programming ?
 
