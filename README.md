@@ -30,7 +30,7 @@ I'm a french beginner developer, so I'm still learning everyday.
 <br />
 <br />
 
-### What languages/things do I know/I'm learning
+### What languages/technologies do I know/I'm learning
 
 - :heart: I love:
 <img align="left" alt="Java " width="29,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
