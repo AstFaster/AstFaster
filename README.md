@@ -68,12 +68,12 @@ I'm a french beginner developer, so I'm still learning everyday.
 <img align="left" alt="Travis CI " width="45,6px" src="https://cdn.freebiesupply.com/logos/large/2x/travis-ci-logo-png-transparent.png" />
 <img align="left" alt="Jenkins " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <img align="left" alt="C++ " width="45,6px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
 <br />
 <br />
 <br />
 
 - :hammer: I need to learn:
-<img align="left" alt="C " width="52,6px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C-300x300.png" />
 <img align="left" alt="Terraform " width="52,6px" src="https://user-images.githubusercontent.com/71207411/201512576-df0b8415-53df-4102-9c34-c59a0781e6b5.png" />
 <br />
 <br />
