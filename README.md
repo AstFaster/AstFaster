@@ -6,7 +6,7 @@ I'm a french beginner developer, so I'm still learning everyday.
 
 ### What about me ?
 
-- :boom: My name is Corentin and I'm 16 yo
+- :boom: My name is Corentin and I'm 17 yo
 - :cyclone: I started to be interested by programming 6 years ago because of a minecraft youtuber called [**Didileo**](https://www.youtube.com/channel/UCGRea3qWHKBt32MKB2wCHhw)
   
 ### How to reach me ?
